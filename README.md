@@ -1,4 +1,4 @@
-## Hey! 🌎 Welcome to my page! 👋 `print('Welcome!')`
+## Hey! 🌎 Welcome to my page! 👋 
 
 # I'm Antonin,
 
