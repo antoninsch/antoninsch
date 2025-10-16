@@ -1,5 +1,5 @@
 # Hey! 🌎 Welcome to my page! 👋 
 
-## I'm Antonin,
-
-Currently a computer science student at EPITA 🖥️
+Currently :
+  - Working on something cool!
+  - CS student at EPITA
