@@ -3,4 +3,4 @@
 Currently :
   - 🌳 Working on something cool!
   - 👾 CS student at EPITA
-  - 📖 Ask me something not too hard
+  - 📖 Everything is a string
